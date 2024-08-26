@@ -1,0 +1,27 @@
+{
+  "name": "zapsign-sdk",
+  "version": "1.0.0",
+  "description": "Uma visão geral do desenvolvimento de aplicativos com os SDKs Typescritpt da Zapsign.",
+  "keywords": [
+    "zapsign",
+    "zapsign-sdk"
+  ],
+  "author": "Fabricio P. Rabelo <fabricio@rabeloscoder.com.br>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabricioprabelo/zapsign-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fabricioprabelo/zapsign-sdk/issues"
+  },
+  "homepage": "https://github.com/fabricioprabelo/zapsign-sdk#readme",
+  "dependencies": {
+    "axios": "^1.7.5"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.9.36",
+    "@types/node": "^20.16.1",
+    "typescript": "^5.5.4"
+  }
+}

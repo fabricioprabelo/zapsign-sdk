@@ -1,5 +1,5 @@
 {
-  "name": "zapsign-sdk",
+  "name": "@fabriciorabelo/zapsign-sdk",
   "version": "1.0.0",
   "description": "Uma visão geral do desenvolvimento de aplicativos com os SDKs Typescritpt da Zapsign.",
   "keywords": [
@@ -23,5 +23,9 @@
     "@types/axios": "^0.9.36",
     "@types/node": "^20.16.1",
     "typescript": "^5.5.4"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
